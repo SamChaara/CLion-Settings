@@ -1,0 +1,9 @@
+<application>
+  <component name="CPPToolchains" version="2">
+    <toolchains detectedVersion="5">
+      <toolchain name="MinGW" toolSetKind="MINGW" toolSetPath="C:\MinGW" debuggerKind="CUSTOM_GDB" customGDBPath="C:\MinGW\bin\gdb.exe">
+        <remoteCredentials HOST="localhost" PORT="2222" USERNAME="Sam" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" />
+      </toolchain>
+    </toolchains>
+  </component>
+</application>
