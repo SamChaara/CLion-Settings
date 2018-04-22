@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/CLionProjects/untitled1/main.c" timestamp="1524426363067" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.cpp" timestamp="1524353076804">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -26,7 +27,16 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
